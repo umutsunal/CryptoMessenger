@@ -10,3 +10,6 @@ Firstly, server program must be started. Then, client programs can be started. A
 
 The port number for the server is 9999, but it can be modified.
 
+This is how the client program looks like:
+
+![image](https://user-images.githubusercontent.com/57930021/105537339-d59bb000-5d02-11eb-948c-7c5e3954f7e2.png)
