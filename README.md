@@ -1,4 +1,4 @@
-# CryptoMessenger
+# Crypto Messenger
 
 An implementation of a crypto messenger in Java programming language.
 
